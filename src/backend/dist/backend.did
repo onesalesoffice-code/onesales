@@ -1,0 +1,11 @@
+type Lead = 
+ record {
+   name: text;
+   phone: text;
+   requirement: text;
+   timestamp: int;
+ };
+service : {
+  getLeads: () -> (vec Lead) query;
+  submitLead: (name: text, phone: text, requirement: text) -> (bool);
+}

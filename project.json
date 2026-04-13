@@ -1,0 +1,24 @@
+{
+  "overview": "A modern, professional landing page for OneSales — a real estate sales & advisory and loan origination company. Features include a full-screen hero, services showcase, featured properties, lead capture form, and WhatsApp integration, all in a corporate blue/white/grey design.",
+  "features": [
+    "Sticky header with navigation and Get Consultation CTA",
+    "Hero section with real estate imagery and dual CTAs",
+    "About Us with value propositions (zero brokerage, customer-first)",
+    "Real Estate & Loan services showcase",
+    "Why Choose Us with 5 key differentiators",
+    "Featured property cards (hardcoded sample listings)",
+    "Contact form with backend lead storage",
+    "WhatsApp floating chat button",
+    "Mobile responsive design with hamburger menu",
+    "Footer with quick links, contact info, and social icons"
+  ],
+  "category": "business",
+  "tags": [
+    "real-estate",
+    "landing-page",
+    "financial-services",
+    "lead-capture",
+    "responsive"
+  ],
+  "last_updated": "2026-04-12T18:46:06.865Z"
+}
